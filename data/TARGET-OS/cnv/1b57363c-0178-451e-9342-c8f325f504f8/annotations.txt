@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+7db46c24-9c69-43a8-8e10-ef1dc5782ab6	\N	case	a19cbc7e-9822-54cb-8967-03926a78102d	General	Notification	2023-08-03T15:52:10.518393-05:00	Approved	Because the value for field 'Metastatic status at diagnosis' in the original data is 'Non-metastatic (confirmed)', the GDC value for 'Metastatic site(s) at diagnosis' has been modified from 'Lung only' to NULL. The value in the Supplement File is unchanged.
